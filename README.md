@@ -1,1 +1,1 @@
-# 3rd-task
+# 3rd-task - This Python code generates all possible password combinations based on user-defined length and character types (numeric, alphabet, special, or their combinations). It uses multithreading to speed up the generation process and saves the results to a file. The output includes passwords like 000, 001, etc., depending on the selected options.
